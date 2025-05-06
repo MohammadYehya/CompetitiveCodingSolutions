@@ -7,3 +7,6 @@ mkdir C++
 mkdir Python
 mkdir Rust
 echo( > Readme.md
+echo( > C++/sol.cpp
+echo( > Python/sol.py
+echo( > Rust/sol.rs
