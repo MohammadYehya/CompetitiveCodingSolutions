@@ -6,7 +6,10 @@ cd %1
 mkdir C++
 mkdir Python
 mkdir Rust
-echo( > Readme.md
-echo( > C++/sol.cpp
-echo( > Python/sol.py
-echo( > Rust/sol.rs
+echo. > Readme.md
+echo. > C++/sol.cpp
+echo. > C++/C++.md
+echo. > Python/sol.py
+echo. > Python/Python.md
+echo. > Rust/sol.rs
+echo. > Rust/Rust.md
