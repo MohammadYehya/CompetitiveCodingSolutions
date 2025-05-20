@@ -6,7 +6,7 @@ class Solution:
                 if nums[i] + nums[j] == target:
                     return [i, j]
                 
-# Hashmap Solution
+# Dictionary Solution
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashmap = {}
