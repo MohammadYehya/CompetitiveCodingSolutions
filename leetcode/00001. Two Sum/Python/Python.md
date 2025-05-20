@@ -4,7 +4,7 @@ Space Complexity    = O(1)
 
 Make a double for loop through the array to check each element to find a pair of elements (x,y) such that `x+y=value`.
 
-# Hashmap Solution
+# Dictionary Solution
 Time Complexity     = O(n)\
 Space Complexity    = O(n)
 
