@@ -1,4 +1,4 @@
-Two Sum
+Two Pass
 <p style="color:green;font-size:20px">
   Easy
 </p>
